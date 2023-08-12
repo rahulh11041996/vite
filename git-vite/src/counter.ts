@@ -8,6 +8,12 @@ export function setupCounter(element: HTMLButtonElement) {
   setCounter(0)
 }
 
+
+function feature1() : void {
+  // * Commited changes
+  return
+}
+
 function feature2() : void {
   // * commit for feat 2
   return
