@@ -12,6 +12,7 @@ export function setupCounter(element: HTMLButtonElement) {
 
 function feature1() : void {
   // * Commited changes dwghjdwgdgwgdghwgdhwdhwgdhwgd
+  // * fet 1 new changes
   return
 }
 
