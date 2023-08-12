@@ -22,5 +22,6 @@ function feature2() : void {
 
 function feature2poin1() : void {
   // * commit for feat 2 fgfgfg
+  // * fet 2 new changes
   return
 }
