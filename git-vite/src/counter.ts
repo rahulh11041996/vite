@@ -12,3 +12,8 @@ function feature2() : void {
   // * commit for feat 2
   return
 }
+
+function feature2poin1() : void {
+  // * commit for feat 2
+  return
+}
