@@ -1,4 +1,5 @@
 export function setupCounter(element: HTMLButtonElement) {
+  // * feature 3 updates here
   let counter = 0
   const setCounter = (count: number) => {
     counter = count
