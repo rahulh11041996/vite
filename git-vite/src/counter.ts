@@ -7,3 +7,8 @@ export function setupCounter(element: HTMLButtonElement) {
   element.addEventListener('click', () => setCounter(counter + 1))
   setCounter(0)
 }
+
+function feature2() : void {
+  // * commit for feat 2
+  return
+}
