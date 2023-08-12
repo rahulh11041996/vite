@@ -16,7 +16,7 @@ function feature1() : void {
 }
 
 function feature2() : void {
-  // * commit for feat 2
+  // * commit for feat 2 new update on feat 2
   return
 }
 
