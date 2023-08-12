@@ -1,5 +1,7 @@
 export function setupCounter(element: HTMLButtonElement) {
   // * feature 3 updates here
+  //  * feat 3 new updates here
+  // * Fix
   let counter = 0
   const setCounter = (count: number) => {
     counter = count
@@ -17,11 +19,12 @@ function feature1() : void {
 }
 
 function feature2() : void {
-  // * commit for feat 2
+  // * commit for feat 2 new update on feat 2
   return
 }
 
 function feature2poin1() : void {
   // * commit for feat 2 fgfgfg
+  // * fet 2 new changes
   return
 }
